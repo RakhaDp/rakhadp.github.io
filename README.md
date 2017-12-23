@@ -1,2 +1,2 @@
 # rakhadp.github.io
-Tugas Membuat Webstatic Sistek Berkas 
+Tugas Membuat Webstatic Sistem Berkas 
